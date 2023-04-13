@@ -1,9 +1,12 @@
+import PaypalPage from "./Components/PaypalPage"
 
 function App() {
-  const [count, setCount] = useState(0)
-
+  
   return (
    <>
+   <div className=" w-full h-screen flex items-center justify-center">
+   <PaypalPage/>
+   </div>
    </>
   )
 }

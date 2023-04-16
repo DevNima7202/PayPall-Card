@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       colors:{
-        'brand-bg': '#9333EA'
-      }
+        'brand-color': '#9333EA'
+      },
     },
   },
   plugins: [],

@@ -51,6 +51,7 @@ function InputPage() {
       </div>
      </div>
      </div>
+     <Card/>
      </div>
      <Btn/>
      </>

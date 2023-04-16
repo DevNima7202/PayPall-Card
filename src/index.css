@@ -6,3 +6,8 @@ body{
     @apply bg-gray-900 text-gray-200
 }
 
+.bg{
+    background-image: url(../public/Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
